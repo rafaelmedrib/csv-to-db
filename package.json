@@ -12,5 +12,10 @@
     "mongodb"
   ],
   "author": "rafael medeiros",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0",
+    "sinon": "^17.0.1"
+  }
 }
